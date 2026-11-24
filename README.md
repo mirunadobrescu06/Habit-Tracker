@@ -2,13 +2,14 @@
 
 An Android app I built for myself to get my studies and daily habits back on track. It lets me track habits day by day, see my progress over time, and keep a grocery list in the same place.
 
-<!-- Add 2-3 screenshots here, e.g.:
+
 <p float="left">
-  <img src="screenshots/today.png" width="250" />
-  <img src="screenshots/habits.png" width="250" />
-  <img src="screenshots/stats.png" width="250" />
+  <img src="ss1.png" width="200" />
+  <img src="ss4.png" width="200" />
+  <img src="ss2.png" width="200" />
+  <img src="ss3.png" width="200" />
 </p>
--->
+
 
 ## Why I built it
 
